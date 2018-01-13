@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.jblog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.13.0",
+    "baseName": "hello",
+    "packageName": "com.jblog",
+    "packageFolder": "com/jblog",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "a30880ae4cbe147bc54b9fc3139c795dc835248f",
+    "enableTranslation": true,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "clientPackageManager": "yarn",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
